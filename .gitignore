@@ -33,9 +33,9 @@ build/
 .vscode/
 
 # dependencies
-/node_modules
-/node
-/.pnp
+node_modules
+node
+.pnp
 .pnp.js
 
 # testing
